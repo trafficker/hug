@@ -12,11 +12,11 @@ server:
 
 spring:
 
-  profiles: dev #开发环境
+  profiles: dev 
 
   application:
 
-    name: springcloud-study-config-client
+    name: microservicecloud-config-client
 
 
 
@@ -36,11 +36,11 @@ server:
 
 spring:
 
-  profiles: test #开发环境
+  profiles: test
 
   application:
 
-    name: springcloud-study-config-client
+    name: microservicecloud-config-client
 
 
 
