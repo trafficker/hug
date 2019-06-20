@@ -26,7 +26,7 @@ eureka:
 
     service-url:
 
-      defaultZone: eureka7001.com:7001/eureka
+      defaultZone: eureka-dev.com:7001/eureka/
 
 ---
 
@@ -50,6 +50,6 @@ eureka:
 
     service-url:
 
-      defaultZone: eureka7001.com:7001/eureka
+      defaultZone: eureka-test.com:7001/eureka/
 
 #请保存为UTF-8格式
